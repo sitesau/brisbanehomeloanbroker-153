@@ -1,0 +1,22 @@
+{
+  "wheel_id": 402,
+  "structure": "umbrella",
+  "slug": "brisbanehomeloanbroker-153",
+  "project": "home-loan-brokers-brisbane-95822345a6ddc8128573c551d95c275c1e43",
+  "parent_t1_ref": "brisbanehomeloanbroker-011",
+  "node_role": "buffer",
+  "money_target": "brisbanehomeloanbroker.com.au",
+  "primary_kw": "home loan brokers brisbane",
+  "intended_url": "https://sitesau.github.io/brisbanehomeloanbroker-153/",
+  "tier": "T2",
+  "writeback_nonce": "a409aed9b07c3b87",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-brokers-brisbane-011/",
+      "anchor": "Home Loan Brokers Brisbane: Questions Before You Apply",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
